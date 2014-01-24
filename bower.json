@@ -1,0 +1,23 @@
+{
+  "name": "dropbox-datastore-example",
+  "version": "0.1.0",
+  "homepage": "https://github.com/destroytoday/dropbox-datastore-example",
+  "authors": [
+    "Jonnie Hallman <jonnie@destroytoday.com>"
+  ],
+  "description": "example app using Dropbox Datastore API",
+  "main": "js/app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "spine": "~1.2.2",
+    "zepto": "~1.1.2"
+  }
+}
